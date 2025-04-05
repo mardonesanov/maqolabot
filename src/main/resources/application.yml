@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: maqolabot
+
+telegram:
+  bot:
+    token: "7859257823:AAG4RmfS-kjgOS7w0j6pdZMhfCWn3esH0SE"
+    username: "maqolachi_uz_bot"
